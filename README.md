@@ -28,6 +28,7 @@ pip install django djangorestframework djangorestframework-simplejwt
 ```bash
 # Django Project
 django-admin startproject employer_system .
+
 # Django Project App
 python manage.py startapp employe
 ```
